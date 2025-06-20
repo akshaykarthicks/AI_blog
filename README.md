@@ -1,6 +1,7 @@
 # AI Blog Generator
 
 This Django project allows users to generate high-quality blog articles from YouTube videos using artificial intelligence. It downloads audio from YouTube using `yt-dlp`, transcribes it with AssemblyAI, and generates a blog post using the Gemini API.
+![image](https://github.com/user-attachments/assets/9c44e011-0c05-4913-8074-8900ee94c9a4)
 
 ## Features
 - User authentication (signup, login, logout)
